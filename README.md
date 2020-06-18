@@ -1,1 +1,1 @@
-# im-not-sick
+# Box Class
